@@ -48,3 +48,7 @@ Including HTML, Figma design, CSS, Js
 **Dessert:** Rey, Wing Ki, Jennifer, Samy
 
 Additional features: Login (Rey, Samy), like (Justin, Shiming, Wing Ki), comment (Justin, Shiming, Wing Ki)
+
+<img src = "https://user-images.githubusercontent.com/91004979/152427851-20635412-39eb-4b36-91b1-072fabfa23e6.jpg" width="700" height="800">
+
+
